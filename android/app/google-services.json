@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080891202541",
+    "project_id": "doan-apptruyen",
+    "storage_bucket": "doan-apptruyen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080891202541:android:b22e3b645369e6d3f425e4",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ36hRJdRhe3hXri0_lkTMqx10vd1ePeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
